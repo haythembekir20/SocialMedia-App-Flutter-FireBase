@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "771303967659",
+    "project_id": "socialmedia-app-f2474",
+    "storage_bucket": "socialmedia-app-f2474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771303967659:android:0e1974430c139d9646a0ee",
+        "android_client_info": {
+          "package_name": "com.bekir.socialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771303967659-06nsp8b23js482j1mjmrsi79mhij5uen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxBorTspkkPaKabmLYg70gYf7QjqQqr6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771303967659-06nsp8b23js482j1mjmrsi79mhij5uen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771303967659:android:6730af76fcd3ffb446a0ee",
+        "android_client_info": {
+          "package_name": "com.haythem.socialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771303967659-06nsp8b23js482j1mjmrsi79mhij5uen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxBorTspkkPaKabmLYg70gYf7QjqQqr6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771303967659-06nsp8b23js482j1mjmrsi79mhij5uen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
